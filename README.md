@@ -4,9 +4,9 @@ list fitur pada BOT ini
 
 ♻ *Group Command* :
 
-⚜ *#groupinfo* (info group)
-⚜ *#mentionAll* (Tag Semua Member)
-⚜ *#add 628xxxxxxx* (Tambah Member)
+⚜ *#groupinfo* (info group)\n
+⚜ *#mentionAll* (Tag Semua Member)\n
+⚜ *#add 628xxxxxxx* (Tambah Member)\n
 ⚜ *#profile* (Melihat Profile Anda)
 ⚜ *#kickAll* (Kick Semua Member)
 ⚜ *#adminlist* (Menampilkan Semua Admin)
