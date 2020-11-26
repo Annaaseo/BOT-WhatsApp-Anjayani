@@ -1,4 +1,4 @@
-Fitur Bot INI bisa dilihat Di https://github.com/rafi7797/BOT-WhatsApp-Anjayani/edit/main/fitur.txt
+Fitur Bot INI bisa dilihat Di https://github.com/rafi7797/BOT-WhatsApp-Anjayani/blob/main/fitur.txt
 
 
 Password? Hubungi Admin
