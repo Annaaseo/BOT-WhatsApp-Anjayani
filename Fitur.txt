@@ -1,0 +1,212 @@
+🔰 -----[ *MENU BOT ANJAYANI* 😎 ]----- 🔰
+
+♻ *Group Command* :
+
+⚜ *#groupinfo* (info group)
+⚜ *#mentionAll* (Tag Semua Member)
+⚜ *#add 628xxxxxxx* (Tambah Member)
+⚜ *#profile* (Melihat Profile Anda)
+⚜ *#kickAll* (Kick Semua Member)
+⚜ *#adminlist* (Menampilkan Semua Admin)
+⚜ *#delete* (Reply chat Bot) 
+⚜ *#promote @mentionUser* (Menaikkan Jabatan)
+⚜ *#demote @mentionUser* (Menurunkan Jabatan)
+⚜ *#kick @mentionUser* (Kick Member)
+⚜ *#leave* (BOT Keluar Group)
+⚜ *#welcome enable|disable* (fitur sambutan)
+⚜ *#glink* (mengambil link grup)
+⚜ *#opengrup* (set chat grup ke semua peserta)
+⚜ *#closegrup* (set chat grup ke admin saja)
+
+♻ *Sticker Creator* :
+
+⚜ *#sticker* (membuat stiker)
+⚜ *#stiker* (membuat stiker)
+⚜ *#memesticker* teksatas|teksbawah (stiker teks)
+⚜ *#stickerGif* (membuat stiker bergerak) 
+⚜ *#sgif* (membuat stiker bergerak)
+⚜ *#toimg* (Ubah Stiker Jadi Foto *Reply stikermu*)
+⚜ *#coolteks* (membuat cool teks) 
+⚜ *#nulispantai* rafi (menulis nama dipantai)
+⚜ *#namecolor* teksatas|teksbawah (name color)
+⚜ *#memeteks* teksatas|teksbawah (foto teks)
+⚜ *#logo* nama (logo gaming)
+⚜ *#blackpink* nama (logo blackpink)
+⚜ *#freefire* nama (logo free fire)
+
+
+♻ *Edukasi Menu* :
+
+⚜ *#translate* [kode bhs] kata kata (translate lengkap)
+⚜ *#wiki <pertanyaan>* (mencari jawaban di wiki)
+⚜ *#kbbi <query>* (Kamus KBBI)
+⚜ *#carifoto <query>* (mencari foto di google)
+⚜ *#google* <query> (mencari link google)
+⚜ *#brainly <pertanyaan>* (mencari jawaban di brainly) 
+⚜ *#nulis <teks nya>* (menulis di kertas) 
+⚜ *#cerpen* (Cerita Pendek)
+⚜ *#puisi* (Puisi)
+⚜ *#puisi2* (Puisi v2)
+⚜ *#puisi3* (Puisi v3)
+⚜ *#faktaunik* (fakta unik)
+
+♻ *Downloader Menu* :
+
+⚜ *#pin <Link pinterest>* (mendownload foto pinterest) 
+⚜ *#ig <Link Ig>* (mendownload foto/video Instagram) 
+⚜ *#fb <link fb>* (mendownload video dari fb) 
+⚜ *#tik <Link tiktok>* (mendownload video Tiktok) 
+⚜ *#ytmp3 <linkyt>* (mendownload mp3 dari youtube) 
+⚜ *#ytmp4 <linkyt>* (mendownload mp4 dari youtube) 
+⚜ *#joox <artis nama lagu>* (memutar lagu dari joox) 
+⚜ *#play* judul lagu (play musik) 
+⚜ *#ytsearch* <query> (search YouTube)
+
+♻ *Umum Menu* :
+
+⚜ *#film* <query> (mencari film)
+⚜ *#covid <negara>* (Info Covid Negara)
+⚜ *#jamdunia* <negara/daerah> (melihat waktu)
+⚜ *#infogempa* (info gempa terkini)
+⚜ *#covidtotal* (Total Coronavirus di dunia)
+⚜ *#JadwalTvNow* (jadwalTv sekarang)
+⚜ *#JadwalShalat <nama kota>* (jadwalSholat Daerah)
+⚜ *#cuaca <nama kota>* (Perkiraan cuaca)
+⚜ *#JadwalTV <ChanelTV>* (jadwalTv Siaran)
+⚜ *#beritanews* (Berita terbaru Indonesia)
+⚜ *#infofilm* (Film Cinema21 yang akan datang)
+⚜ *#infokonser* (Konser Yang Akan Datang)
+⚜ *#mostfilm* (Film Indonesia Hits)
+
+♻ *Wibu Menu* :
+
+⚜ *#animedownload* [nama anime] (Mendownload anime)
+⚜ *#waifu* (Random waifu)
+⚜ *#randnime* (Random Anime)
+⚜ *#animneko* (Gambar anime kucing)
+⚜ *#animneko2* (Gambar anime kucing 2)
+⚜ *#randomhentai* (anime hentai) 
+⚜ *#yuri* (anime yuri) 
+⚜ *#hug* (anime hug) 
+⚜ *#nsfwneko* (hehe tau sendiri lah) 
+⚜ *#baguette* (anime baguette) 
+⚜ *#anime <nama anime>* (mencari anime)
+⚜ *#rpaper* (menampilkan wallpaper anime)
+⚜ *#loli* (random loli)
+
+♻ *Menu Hiburan* :
+
+⚜ *#s* <kata kata> (untuk mengobrol dengan simisimi) 
+⚜ *#simi* <kata kata> (untuk mengobrol dengan simisimi v2) 
+⚜ *#bacotadd* <kata kata> (menambah bacotan kedalam database)
+⚜ *#bacot* (random bacot)
+⚜ *#igstalk @usernameIG* (info instagram account) 
+⚜ *#twitstalk @usertwiter* (info twiter account) 
+⚜ *#dadu* (acak angka dadu)
+⚜ *#koin* (lempar koin)
+⚜ *#dadu* (acak angka dadu)
+⚜ *#slap* @mentionuser (mumukul teman anda)
+⚜ *#cekjodoh* rafi&mina (cocok pasangan)
+⚜ *#pakboi* (Kata Kata Pakboi)
+⚜ *#cekpasangan* <rafi&mina> (cocok cocokan)
+⚜ *#cekzodiak* <rafi&11/12/2002> (cek zodiak)
+⚜ *#ramalzodiak* <virgo> (cek zodiak)
+⚜ *#artinama* <namalo> (Melihat Arti Nama)
+⚜ *#alay* <teks> (membuat kata 4lay)
+⚜ *#hilih* <teks> (membuat kata hilih)
+⚜ *#ninja* <teks> (membuat kata ninja)
+⚜ *#bapak* <teks> (membuat ketikan bapak kalian)
+⚜ *#gaycek* (melihat seberapa gay anda)
+⚜ *#pintarcek* nama (melihat seberapa pintar anda)
+⚜ *#bodohcek* (melihat seberapa bodoh anda)
+⚜ *#cantikcek* (melihat seberapa cantik anda)
+⚜ *#gantengcek* (melihat seberapa ganteng anda)
+⚜ *#bucin* (random gombalan)
+⚜ *#randnama* <male/female> (Random Nama)
+⚜ *#cecan* (Gambar cewe Cantik)
+⚜ *#cecan2* (Gambar cewe Cantik v2)
+⚜ *#jihyo* (Gambar Jihyo)
+⚜ *#cogan* (Gambar cowo Ganteng)
+⚜ *#estetik* (Gambar Aesthetic)
+⚜ *#wallhp* (Random Wallpaper HP)
+⚜ *#wallpaper* (Random Wallpaper)
+⚜ *#meme* (Gambar random lucu)
+⚜ *#kucing* (Gambar kucing)
+⚜ *#dog* (Gambar anjing)
+⚜ *#kyubi* (Gambar rubah)
+⚜ *#kambing* (Gambar kambing)
+⚜ *#toxic* (Random Kata Kasar)
+⚜ *#katasen* (Random Anak Indie)
+⚜ *#randkata* (Random Kata)
+⚜ *#randnama* (Random Nama)
+⚜ *#lirik <nama lagu>* (lirik lagu)
+⚜ *#chord <nama lagu>* (chord gitar)
+⚜ *#pokemon* (Gambar Pokemon)
+⚜ *#quotes* (Menampilkan quotes)
+⚜ *#quotes2* (Menampilkan Quotes v2)
+⚜ *#quoteit* teksnya|namalo|random (Membuat quotes)
+⚜ *#tts <kode bahasa> kata kata* (suara google)
+⚜ *#kodetts* (list kode tts)
+
+♻ *Menu Cek Tagihan* :
+
+⚜ *#pln* 232200092000 (melihat tagihan PLN)
+⚜ *#bpjs* 222555533 (melihat tagihan BPJS)
+⚜ *#gas* 232200092000 (melihat tagihan GAS)
+⚜ *#spedy* 232200092000 (melihat tagihan spedy internet)
+⚜ *#tri* 0887555888222 (melihat tagihan Kartu Prabayar tri)
+⚜ *#smart* 0822215565 (melihat tagihan KArtu prabayar smartfreen)
+
+♻ *Menu Tambahan* :
+
+⚜ *#call* 8125887954 (spam call orang)  
+⚜ *#ss* <link web> (screenshot website)
+⚜ *#qrmaker* <kata kata/link> (membuat qr code)
+⚜ *#md5en* <query> (md5 encoder)
+⚜ *#bcrypt* <query> (bcrypt encoder)
+⚜ *#base32en* <query> (base32encoder)
+⚜ *#base64en* <query> (base64encoder)
+⚜ *#distord* reply suara (memecahkan kuping)
+⚜ *#bass* frequesnsi 20,50,500 (menaikan bass)  
+⚜ *#tomp3* reply video (mengubah video menjadi audio)  
+
+
+♻ *Menu Lain-Lain* :
+
+⚜ *#bug* kata kata bug (melapor bug kepada admin bot)
+⚜ *#request* fiturnya (request fitur ke BOT)
+⚜ *#limit* (melihat limit penggunakan)
+⚜ *#ownerBot* (Kontak Pembuat)
+⚜ *#info* (info BOT)
+⚜ *#donasi* (Donasi BOT)
+⚜ *#botstat* (Statistik BOT)
+⚜ *#getses* (Layar BOT)
+⚜ *#botGrup* (Grup Pemilik BOT)
+⚜ *#listblock* (Menampikan User Yang Diblokir)
+⚜ *#cekpremium* (melihat status premium)
+⚜ *#premiumfitur* (melihat kelebihan premium)
+
+♻ *Menu Owner* : 
+
+⚜ *#ban @mentoined* (Block Pengguna BOT)
+⚜ *#unban @mentioned* (Unblock Pengguna BOT)
+⚜ *#join <link Group>* (Perintah join grup menggunakan link)(Premium Fitur)
+⚜ *#grub enable | disable* (Mendaftarkan Grup Ke database)(premium Fitur)
+⚜ *#bc <pesan>* (mengirim pesan siaran ke pengguna)
+⚜ *#leaveall* (keluar semua grup)
+⚜ *#clearall* (Membersihkan All Chat)
+
+⚙️ Semua perintah digunakan tanpa tanda '<' dan '>'
+
+⚠️ Gunakan bot dengan bijak ‼️
+⚠️ Bot ini Tidak berjalan 24 Jam ‼️
+⚠️ Bot Memiliki fitur anti spam mohon beri dely 5 detik !!!
+⚠️ Jika Ada BUG atau Fitur tidak berjalan mohon lapor admin dengan cara #bug laporan bug !!!
+
+
+📺 Iklan :
+
+✅ Follow IG : @z0rafi
+✅ Upgrade Premium : 0851-5684-2288 (rafi)
+
+🔰 -----[ *POWERED BY BOT ANJAYANI* 😎 ]----- 🔰
